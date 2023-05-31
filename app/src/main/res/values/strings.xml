@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyPractice</string>
+    <string name="msg_shown">CTView is:</string>
+<string name="checked">checked</string>
+<string name="unchecked">unchecked</string>
+<string name="checkedTextView">CheckedTextView</string>
+    <string name="first_name"> First Name</string>
+    <string name="email_id"> Email Id</string>
+    <string name="password"> Password</string>
+    <string name="confrim_password"> Confirm Password</string>
+    <string name="register"> Register</string>
+    <string name="already"> Already a member?Login</string>
+
+
+
+</resources>
