@@ -11,6 +11,9 @@
     <string name="register"> Register</string>
     <string name="already"> Already a member?Login</string>
 
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+
 
 
 </resources>

@@ -14,7 +14,7 @@ class Test : AppCompatActivity() {
         while (i <= 5) {
             j = 1
             while (j <= 5) {
-                print("*")
+               // print("*")
                 j++
             }
             i++

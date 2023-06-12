@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyPractice">
         <activity
-            android:name=".BindingTest"
+            android:name=".MemeShare.MainActivity_ShareMeme"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
